@@ -1,0 +1,17 @@
+
+{
+  "name": "Test Paypal App",
+  "version": "1.0.0",
+  "description": "Test Paypal App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Rajesh Ramesh",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "paypal-rest-sdk": "^1.7.1"
+  }
+}
